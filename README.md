@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 Sculpin Blog Skeleton
 =====================
 
